@@ -1,0 +1,15 @@
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\WcfPC2\bin\WcfPC2.dll
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\WcfPC2\bin\WcfPC2.pdb
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\WcfPC2\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\WcfPC2\obj\Debug\WcfPC2.dll
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\WcfPC2\obj\Debug\WcfPC2.pdb
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\PC2_DSD\WcfPC2\bin\WcfPC2.dll
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\PC2_DSD\WcfPC2\bin\WcfPC2.pdb
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\PC2_DSD\WcfPC2\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\PC2_DSD\WcfPC2\obj\Debug\WcfPC2.dll
+D:\_Karlos\Personal\Work_UPC\Distribuidas\PC2\WcfPC2\PC2_DSD\WcfPC2\obj\Debug\WcfPC2.pdb
+D:\DSD\PC2_DSD\WcfPC2\bin\WcfPC2.dll
+D:\DSD\PC2_DSD\WcfPC2\bin\WcfPC2.pdb
+D:\DSD\PC2_DSD\WcfPC2\obj\Debug\ResolveAssemblyReference.cache
+D:\DSD\PC2_DSD\WcfPC2\obj\Debug\WcfPC2.dll
+D:\DSD\PC2_DSD\WcfPC2\obj\Debug\WcfPC2.pdb

@@ -1,0 +1,5 @@
+D:\DSD\PC2_DSD\Cliente\bin\Debug\Cliente.exe
+D:\DSD\PC2_DSD\Cliente\bin\Debug\Cliente.pdb
+D:\DSD\PC2_DSD\Cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DSD\PC2_DSD\Cliente\obj\x86\Debug\Cliente.exe
+D:\DSD\PC2_DSD\Cliente\obj\x86\Debug\Cliente.pdb

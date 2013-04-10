@@ -1,0 +1,5 @@
+D:\DSD\PC2_DSD\WebClient\bin\WebClient.dll
+D:\DSD\PC2_DSD\WebClient\bin\WebClient.pdb
+D:\DSD\PC2_DSD\WebClient\obj\Debug\ResolveAssemblyReference.cache
+D:\DSD\PC2_DSD\WebClient\obj\Debug\WebClient.dll
+D:\DSD\PC2_DSD\WebClient\obj\Debug\WebClient.pdb
